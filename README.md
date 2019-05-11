@@ -14,7 +14,7 @@ https://tomhorsley.com/hardware/solidoodle/solidoodle.html
 * Solidoodle forked from Printboard rev-e
 * rev-e almost same schematic with rev-d
 * sch pdf file show rev-d
-* pcb pdf file match with physical view
+* pcb pdf file match with Solidoodle 2/3 MB physical view
 
 http://wiki.solidoodle.com/update-firmware
 
